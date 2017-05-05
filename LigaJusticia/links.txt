@@ -1,0 +1,7 @@
+https://www.google.com.co/search?q=metodo+equals&oq=metodo+equals&aqs=chrome..69i57.5323j0j1&sourceid=chrome&ie=UTF-8
+
+https://jucles.wordpress.com/2011/05/10/como-implementar-el-metodo-equals-en-java/
+
+https://www.tutorialspoint.com/java/util/arraylist_indexof.htm
+
+http://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=628:el-metodo-equals-en-java-diferencia-entre-igualdad-e-identidad-comparar-objetos-ejemplos-cu00662b&catid=68&Itemid=188
